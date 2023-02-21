@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-21 18:11+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: setup.py:100
+msgid "Add"
+msgstr ""
+
+#: setup.py:99 setup.py:404
+msgid "Back"
+msgstr ""
+
+#: setup.py:244
+msgid "Cancel"
+msgstr ""
+
+#: setup.py:97 setup.py:257
+msgid "City"
+msgstr ""
+
+#: setup.py:102 setup.py:246
+msgid "Delete"
+msgstr ""
+
+#: setup.py:101
+msgid "Edit"
+msgstr ""
+
+#: plugin.py:248
+#, python-format
+msgid "Feels like %s"
+msgstr ""
+
+#: plugin.py:175
+msgid "Getting weather information..."
+msgstr ""
+
+#: plugin.py:243
+#, python-format
+msgid "Humidity: %s %%"
+msgstr ""
+
+#: setup.py:258
+msgid "Location code"
+msgstr ""
+
+#: setup.py:403
+msgid "MSN location search result"
+msgstr ""
+
+#: plugin.py:182
+msgid ""
+"No locations defined...\n"
+"Press 'Menu' to do that."
+msgstr ""
+
+#: setup.py:245 setup.py:405
+msgid "OK"
+msgstr ""
+
+#: plugin.py:247
+#, python-format
+msgid "Observation point: %s"
+msgstr ""
+
+#: plugin.py:246
+#, python-format
+msgid "Observation time: %s"
+msgstr ""
+
+#: setup.py:287
+msgid "Please enter a valid city name."
+msgstr ""
+
+#: setup.py:289
+msgid "Please enter a valid location code for the city."
+msgstr ""
+
+#: setup.py:147 setup.py:300
+msgid "Really delete this WeatherPlugin Entry?"
+msgstr ""
+
+#: setup.py:247
+msgid "Search Code"
+msgstr ""
+
+#: plugin.py:58
+msgid "Show Weather Forecast"
+msgstr ""
+
+#: setup.py:98 setup.py:259
+msgid "System"
+msgstr ""
+
+#: plugin.py:58 plugin.py:125
+msgid "Weather Plugin"
+msgstr ""
+
+#: setup.py:233
+msgid "WeatherPlugin: Edit Entry"
+msgstr ""
+
+#: setup.py:96
+msgid "WeatherPlugin: List of Entries"
+msgstr ""
+
+#: setup.py:274
+msgid "You need to enter a valid city name before you can search for the location code."
+msgstr ""
+
+#: setup.py:47
+msgid "imperial system"
+msgstr ""
+
+#: setup.py:47
+msgid "metric system"
+msgstr ""

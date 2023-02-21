@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: audi06_19 <info@dreamosat-forum.com>\n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+# Turkish translations for PACKAGE package.
+# Copyright (C) 2023 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# audi06_19 <info@dreamosat-forum.com>, 2023.
+#
+#: setup.py:100
+msgid "Add"
+msgstr "Ekle"
+
+#: setup.py:99 setup.py:404
+msgid "Back"
+msgstr "Geri"
+
+#: setup.py:244
+msgid "Cancel"
+msgstr "İptal"
+
+#: setup.py:97 setup.py:257
+msgid "City"
+msgstr "Şehir"
+
+#: setup.py:102 setup.py:246
+msgid "Delete"
+msgstr "Sil"
+
+#: setup.py:101
+msgid "Edit"
+msgstr "Düzelt"
+
+#: plugin.py:248
+#, python-format
+msgid "Feels like %s"
+msgstr "%s gibi hissettiriyor"
+
+#: plugin.py:175
+msgid "Getting weather information..."
+msgstr "Hava durumu bilgisi alınıyor..."
+
+#: plugin.py:243
+#, python-format
+msgid "Humidity: %s %%"
+msgstr "Nem: %s %%"
+
+#: setup.py:258
+msgid "Location code"
+msgstr "Konum kodu"
+
+#: setup.py:403
+msgid "MSN location search result"
+msgstr "MSN konum arama sonucu"
+
+#: plugin.py:182
+msgid ""
+"No locations defined...\n"
+"Press 'Menu' to do that."
+msgstr ""
+"Tanımlanmış konum yok...\n"
+"Bunu yapmak için 'Menü'ye basın."
+
+#: setup.py:245 setup.py:405
+msgid "OK"
+msgstr "Tamam"
+
+#: plugin.py:247
+#, python-format
+msgid "Observation point: %s"
+msgstr "Gözlem noktası: %s"
+
+#: plugin.py:246
+#, python-format
+msgid "Observation time: %s"
+msgstr "Gözlem zamanı: %s"
+
+#: setup.py:287
+msgid "Please enter a valid city name."
+msgstr "Lütfen geçerli bir şehir adı girin."
+
+#: setup.py:289
+msgid "Please enter a valid location code for the city."
+msgstr "Lütfen şehir için geçerli bir konum kodu girin."
+
+#: setup.py:147 setup.py:300
+msgid "Really delete this WeatherPlugin Entry?"
+msgstr "Bu WeatherPlugin Girişi gerçekten silinsin mi?"
+
+#: setup.py:247
+msgid "Search Code"
+msgstr "Arama Kodu"
+
+#: plugin.py:58
+msgid "Show Weather Forecast"
+msgstr "Hava Tahminini Göster"
+
+#: setup.py:98 setup.py:259
+msgid "System"
+msgstr "Sistem"
+
+#: plugin.py:58 plugin.py:125
+msgid "Weather Plugin"
+msgstr "Hava Durumu Eklentisi"
+
+#: setup.py:233
+msgid "WeatherPlugin: Edit Entry"
+msgstr "WeatherPlugin: Girişi Düzenle"
+
+#: setup.py:96
+msgid "WeatherPlugin: List of Entries"
+msgstr "WeatherPlugin: Giriş Listesi"
+
+#: setup.py:274
+msgid "You need to enter a valid city name before you can search for the location code."
+msgstr "Yer kodunu arayabilmek için önce geçerli bir şehir adı girmelisiniz."
+
+#: setup.py:47
+msgid "imperial system"
+msgstr "emperyal sistem"
+
+#: setup.py:47
+msgid "metric system"
+msgstr "metrik sistem"
